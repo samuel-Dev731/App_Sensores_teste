@@ -1,1 +1,0 @@
-# App_Sensores_teste
